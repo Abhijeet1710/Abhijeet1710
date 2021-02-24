@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Abhijeet Pandurang Khamkar.
- #Self Taught Programmer
- 20 years old Computer Engineer Undergrad Student.
+ -Self Taught Programmer.
+ -20 years old Computer Engineer Undergrad Student.
 
 - 🔭 I’m currently working on Android Application Development (- Exploring little bit of web devlopment -)
 - 🌱 I’m currently learning :- Android Dev  | Web Dev | Kotlin | CP | Java
