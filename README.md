@@ -7,7 +7,7 @@
 - 👯 looking to collaborate on Android Apps Development.
 - 📫 Email : abhijeetkhamkar30@gmail.com 
 
-# Know abuot me
+# Know About me
 Portfolio [Portfolio]().
 Linked In [Linked In]().
 Instagram [Instagram]().
