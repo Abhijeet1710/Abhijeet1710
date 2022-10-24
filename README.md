@@ -1,10 +1,9 @@
 # Hi there 👋 I am Abhijeet Pandurang Khamkar
 
 - 💖 India
-- 🎓21 year old Computer Engineering Undergraduate student.
-- 📱 currently working on Android Application Development (- Exploring little bit of web devlopment -)
-- 🏫 currently learning :- Android Dev | Kotlin | Java | Javascript | React | NodeJS
-- 👯 looking to collaborate on Android Apps Development.
+- 🎓DSE at Infosys
+- 📱 currently working on MEAN stck technology
+- 🏫 currently learning :- Angular | Kotlin | Java | Javascript | Angular | React |  NodeJS
 - 📫 Email : khamkarengineering1@gmail.com
 
 # Know About me
