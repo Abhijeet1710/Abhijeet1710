@@ -2,7 +2,7 @@
 
 - 💖 India
 - 🎓DSE at Infosys
-- 📱 currently working on MEAN stck technology
+- 📱 currently working on MEAN stack.
 - 🏫 currently learning :- Angular | Kotlin | Java | Javascript | Angular | React |  NodeJS
 - 📫 Email : khamkarengineering1@gmail.com
 
